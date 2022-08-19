@@ -1,3 +1,2 @@
-#Here's a game of rock paper scissors, and it's done to show how to play with an AI using Python code(AI meaning Artificial Intelligence).
-#There are comments in the code that will help you to learn why certain things are being done.
-#Enjoy!
+Here's a game of rock, paper, scissors, with you versus an AI! Rock, paper, scissors is a game where each player has to pick one option out of rock, paper and scissors, and the resulting clash may or may not decide the winner, based on what of the 3 is picked and how they interact. Rock beats scissors, scissors beats paper, and paper beats rock. If rock goes against rock, scissors goes against scissors, or paper goes against paper, the result is a draw. 
+Some challenges in the code was getting the game to restart properly, and I needed to look at how to do that without making the user manually have to rerun the code. 
