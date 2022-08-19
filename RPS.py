@@ -3,6 +3,7 @@ import random
 while True:
     user_action = input("Enter a choice (rock, paper, scissors): ")
     # This implements the question to the user, asking them to choose something between rock, paper and scissors.
+    # The user should only select out of these 3 options for the input.
     possible_actions = ["rock", "paper", "scissors"]
     # These are the possible results 
     computer_action = random.choice(possible_actions)
